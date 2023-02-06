@@ -1,19 +1,22 @@
-
-![Alphabet Mit Rawand](dark.png#gh-dark-mode-only)
-![Alphabet Mit Rawand](header_light.png#gh-light-mode-only)
+![Alphabet Mit Rawand](logo.png)
 
 Alphabet Mit Rawand
 ==========
 
-Willkommen zu Alphabet Mit Rawand!
+Welcome to Alphabet Mit Rawand!
 
-Kommt bald...
-<p dir="rtl">بەم زووانە...</p>
+AlphabetMitRawand is a mobile app and web-app to learn German in the best and easy way
 
-### Repository Informationen
-- [Alphabet Mit Rawand](https://github.com/AndroidIDEOfficial/AndroidIDE) - Hauptanwendung.
+بەخێربێن بۆ ئەلفوبێ لەگەڵ ڕەوەند!
 
-### Wichtige Links
-- [Webseite](https://alphabet.r4wand.eu.org/)
+ئەلفوبێ لەگەڵ ڕەوەند ئەپێکی مۆبایل و وێب-ئەپێکە بۆ فێربوونی زمانی ئەڵمانی بە باشترین و ئاسان
+
+## Contact Developer
+- [Website](https://alphabet.r4wand.eu.org/)
 - [Instagram](https://instagram.com/de.krd)
 - [Telegram](https://t.me/de_krd)
+
+## پەیوەندی بە گەشەپێدەرەوە بکە
+- [ماڵپەڕ](https://alphabet.r4wand.eu.org/)
+- [ئینستاگرام](https://instagram.com/de.krd)
+- [تێلێگرام](https://t.me/de_krd)
