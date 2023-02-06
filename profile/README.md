@@ -1,9 +1,9 @@
 ![Alphabet Mit Rawand](logo.png)
 
-Alphabet Mit Rawand
+AlphabetMitRawand
 ==========
 
-Welcome to Alphabet Mit Rawand!
+Welcome to AlphabetMitRawand!
 
 AlphabetMitRawand is a mobile app and web-app to learn German in the best and easy way
 
