@@ -1,4 +1,4 @@
-![Alphabet Mit Rawand](logo.png)
+<img height="150" src="../icon-512.png" alt="../icon-512.png"/>
 
 AlphabetMitRawand
 ==========
