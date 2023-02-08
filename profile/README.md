@@ -1,4 +1,4 @@
-<img height="150" src="../icon-512.png" alt="../icon-512.png"/>
+<img height="150" src="../icon-512.png" alt="https://raw.githubusercontent.com/AlphabetMitRawand/.github/main/icon-512.png"/>
 
 AlphabetMitRawand
 ==========
